@@ -1,0 +1,10 @@
+The required components for this code are:
+
+  - Arduino nano
+  - Nrf24L01 radio module
+  - MPU6050
+  - OLED screen
+  - Joysticks & Buttons
+  - Servos & Motor (with ESC)
+  
+If someone sees im using their code ill gladly tag them.
