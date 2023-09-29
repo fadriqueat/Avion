@@ -11,6 +11,7 @@ He requerido de mucha investigación para poder llevar a cabo este proyecto, bus
 
 
 
+
 The required components for this code are:
 
   - Arduino nano
